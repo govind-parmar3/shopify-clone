@@ -1,2 +1,2 @@
 SHOPIFY-clone
-![video alt](https://github.com/govind-parmar3/shopify-clone/blob/9bee1b8321c7fa9f75079ef933b51cd5f11d3bdd/21.06.2024_16.23.02_REC.mp4)
+![image alt](https://github.com/govind-parmar3/shopify-clone/blob/88831fb670f40386c3a9c2e4926b4d0734201927/Screenshot%20(16).png)
